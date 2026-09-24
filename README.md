@@ -2,13 +2,11 @@
 
 # 👋 Hi, I'm Golffzza
 
-### Full-stack Web Developer · Data Engineering Explorer
+### Computer Science Student & Developer
 
-I enjoy building practical software — from **user interfaces and application logic** to **databases and data pipelines**.
+I build practical software, explore new technologies, and learn through hands-on projects.
 
-<a href="https://github.com/Golffzza?tab=repositories">
-  <img src="https://img.shields.io/badge/View_Repositories-181717?style=for-the-badge&logo=github&logoColor=white" alt="Repositories" />
-</a>
+[Projects](#-featured-projects) · [Repositories](https://github.com/Golffzza?tab=repositories)
 
 </div>
 
@@ -17,10 +15,10 @@ I enjoy building practical software — from **user interfaces and application l
 ## 👨‍💻 About me
 
 - 🎓 Computer Science student at **Naresuan University**
-- 💻 Building full-stack web applications with **Next.js, React, TypeScript, and JavaScript**
-- 🗄️ Working with **PostgreSQL, Prisma ORM, and application APIs**
-- ⚙️ Exploring **Docker, Airflow, data pipelines, and cloud technologies**
-- 🌱 Learning by building projects that solve practical problems
+- 💻 Building web applications and software projects with modern technologies
+- 🗄️ Interested in working with databases, APIs, and data workflows
+- ⚙️ Exploring Docker, cloud technologies, and data engineering tools
+- 🌱 Learning through hands-on projects, debugging, and continuous improvement
 
 ---
 
@@ -61,7 +59,6 @@ I enjoy building practical software — from **user interfaces and application l
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" alt="Postman" />
   <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white" alt="AWS" />
 </p>
 
